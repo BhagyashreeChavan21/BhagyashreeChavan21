@@ -1,5 +1,5 @@
 # Hi  I'm Bhagyashree Chavan  
 
-Student at PDA College of Engineering  
-Java Full Stack Developer (Intern)  
-Interned at JSpiders (QSpiders) through Incubation Program
+<h3>Student at PDA College of Engineering</h3>  
+<h3></h3>Java Full Stack Developer (Intern)</h3>  
+<h3></h3>Interned at JSpiders (QSpiders) through Incubation Program</h3>
